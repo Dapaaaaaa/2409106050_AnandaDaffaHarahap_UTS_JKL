@@ -11,7 +11,7 @@ import os
 from identitas import kode_cabang
 
 SNMP_HOST = os.getenv("SNMP_HOST", "127.0.0.1")
-SNMP_PORT = 161
+SNMP_PORT = 1161
 COMMUNITY = f"comm_{kode_cabang}"
 OID_SYSNAME = "1.3.6.1.2.1.1.5.0"
 
