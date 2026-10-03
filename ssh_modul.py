@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-File: identitas.py
+File: ssh_modul.py
 Tujuan: Untuk login SSH ke VM menggunakan paramiko dan menjalankan perintah diagnostik
 Pembuat: Ananda Daffa Harahap (2409106050)
 """
